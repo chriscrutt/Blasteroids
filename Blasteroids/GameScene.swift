@@ -9,7 +9,9 @@
 import SpriteKit
 import GameplayKit
 
-// TODO: increase speed, different size?, more asteroids on screen, lives, explosion animation, state machines, scoreeeeee
+// TODID: increase speed, lives, score
+// TODO: explosion animation/state machines/animation, make own graphics, home/pause screen, countdown before start/resume
+// OTHER?: different size asteroids, spawn 2+ asteroids at a time but slower spawn
 
 class GameScene: SKScene, SKPhysicsContactDelegate {
     
